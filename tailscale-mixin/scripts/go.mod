@@ -2,7 +2,7 @@ module _
 
 go 1.24.0
 
-toolchain go1.24.1
+toolchain go1.26.10
 
 require (
 	github.com/Kunde21/markdownfmt/v3 v3.1.0
