@@ -217,7 +217,7 @@ require (
 	github.com/xeipuuv/gojsonschema v1.2.0 // indirect
 	github.com/xhit/go-str2duration/v2 v2.1.0 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
-	github.com/yuin/goldmark v1.7.8 // indirect
+	github.com/yuin/goldmark v1.7.17 // indirect
 	github.com/zclconf/go-cty v1.16.3 // indirect
 	github.com/zeitlinger/conflate v0.0.0-20230622100834-279724abda8c // indirect
 	gitlab.com/gitlab-org/api/client-go v0.137.0 // indirect
